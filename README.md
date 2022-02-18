@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
