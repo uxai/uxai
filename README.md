@@ -15,12 +15,17 @@ Want to collaborate and learn together?
 ### 🌱 I'm currently learning...
 * #100DaysOfCode in Python
 * Mathematics for Machine Learning
+* R for Machine Learning
 * Web3 and Blockchain
 
-### 🕊 Skills
-![Python badge](https://img.shields.io/badge/Python-Beginner-brightgreen?style=flat-square&logo=Python) ![Bash badge](https://img.shields.io/badge/BASH-Beginner-brightgreen?style=flat-square&logo=Bash)
-![Html badge](https://img.shields.io/badge/HTML5-PRO-blue?style=flat-square&logo=HTML5) ![CSS badge](https://img.shields.io/badge/CSS-PRO-blue?style=flat-square&logo=CSS) ![javascript badge](https://img.shields.io/badge/JS-Intermediate-orange?style=flat-square&logo=javascript)
+### 🕊 Technologies
+
+#### Tools
+![WINDOWS badge](https://img.shields.io/badge/OS-WINDOWS-028090?style=flat&logo=WINDOWS&labelColor=00001F&logoColor=FFFFFF) ![LINUX badge](https://img.shields.io/badge/OS-LINUX-028090?style=flat&logo=LINUX&labelColor=00001F&logoColor=FFFFFF) ![Bash badge](https://img.shields.io/badge/SHELL-BASH-028090?style=flat&logo=terminal&labelColor=00001F&logoColor=FFFFFF) ![VSCODE badge](https://img.shields.io/badge/EDITOR-VSCODE-028090?style=flat&logo=VS&labelColor=00001F&logoColor=FFFFFF) ![FIGMA badge](https://img.shields.io/badge/UI-FIGMA-028090?style=flat&logo=figma&labelColor=00001F&logoColor=FFFFFF)
+
+#### Languages
+![R badge](https://img.shields.io/badge/CODE-R-028090?style=flat&logo=R&labelColor=00001F&logoColor=FFFFFF) ![Python badge](https://img.shields.io/badge/CODE-PYTHON-028090?style=flat&logo=Python&labelColor=00001F&logoColor=FFFFFF) ![Html badge](https://img.shields.io/badge/WEB-HTML5-028090?style=flat&logo=HTML5&labelColor=00001F&logoColor=FFFFFF) ![CSS badge](https://img.shields.io/badge/WEB-CSS3-028090?style=flat&logo=CSS3&labelColor=00001F&logoColor=FFFFFF) ![javascript badge](https://img.shields.io/badge/WEB-JAVASCRIPT-028090?style=flat&logo=javascript&labelColor=00001F&logoColor=FFFFFF)
 
 ### 🔰 Profile Stats
-![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=dracula)
+![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=vue-dark)
