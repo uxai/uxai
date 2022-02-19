@@ -1,19 +1,26 @@
-### Hi there 👋
+## Salutations! 👋
+I am a UX Designer with front-end Web development skills that is interested in AI, Machine Learning and cryptography.
 
-<!--
-**uxai/uxai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I work in FinTech as a designer
 
-Here are some ideas to get you started:
+🌟 My goal is to move into AI and ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Reach out!
+Want to collaborate and learn together?
 
-![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[Blog](https://uxai.net) | [Twitter](https://twitter.com/uxai_net) | [Email](mailto:sudo@uxai.net)
+
+-----------
+
+### 🌱 I'm currently learning...
+* #100DaysOfCode in Python
+* Mathematics for Machine Learning
+* Web3 and Blockchain
+
+### 🕊 Skills
+![Python badge](https://img.shields.io/badge/Python-Beginner-brightgreen?style=flat-square&logo=Python) ![Bash badge](https://img.shields.io/badge/BASH-Beginner-brightgreen?style=flat-square&logo=Bash)
+![Html badge](https://img.shields.io/badge/HTML5-PRO-blue?style=flat-square&logo=HTML5) ![CSS badge](https://img.shields.io/badge/CSS-PRO-blue?style=flat-square&logo=CSS) ![javascript badge](https://img.shields.io/badge/JS-Intermediate-orange?style=flat-square&logo=javascript)
+
+### 🔰 Profile Stats
+![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=onedark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=onedark)
