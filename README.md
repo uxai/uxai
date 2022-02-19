@@ -1,9 +1,9 @@
 ## Salutations! 👋
-I am a UX Designer with front-end Web development skills that is interested in AI, Machine Learning and cryptography.
+I am a UX Designer with front-end Web development skills that is interested in AI, Machine Learning, Robotics and cryptography.
 
 💼 I work in FinTech as a designer
 
-🌟 My goal is to move into AI and ML
+🌟 My goal is to move into ML and Robotics
 
 #### Reach out!
 Want to collaborate and learn together?
