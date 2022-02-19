@@ -22,5 +22,5 @@ Want to collaborate and learn together?
 ![Html badge](https://img.shields.io/badge/HTML5-PRO-blue?style=flat-square&logo=HTML5) ![CSS badge](https://img.shields.io/badge/CSS-PRO-blue?style=flat-square&logo=CSS) ![javascript badge](https://img.shields.io/badge/JS-Intermediate-orange?style=flat-square&logo=javascript)
 
 ### 🔰 Profile Stats
-![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=onedark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=onedark)
+![uxai's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxai&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxai&layout=compact&theme=dracula)
