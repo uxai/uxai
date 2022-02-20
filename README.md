@@ -8,7 +8,7 @@ I am a UX Designer with front-end Web development skills that is interested in A
 #### Reach out!
 Want to collaborate and learn together?
 
-[Blog](https://uxai.net) | [Twitter](https://twitter.com/uxai_net) | [Email](mailto:sudo@uxai.net)
+[Blog](https://uxai.net) | [Email](mailto:sudo@uxai.net)
 
 -----------
 
