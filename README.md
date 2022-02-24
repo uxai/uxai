@@ -13,10 +13,10 @@ Want to collaborate and learn together?
 -----------
 
 ### 🌱 I'm currently learning...
-* #100DaysOfCode in Python
-* Mathematics for Machine Learning
-* R for Machine Learning
-* Web3 and Blockchain
+- [ ] #100DaysOfCode in Python
+- [ ] Mathematics for Machine Learning
+- [ ] R for Machine Learning
+- [ ] Web3 and Blockchain
 
 ### 🕊 Technologies
 
