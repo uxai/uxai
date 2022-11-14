@@ -2,10 +2,10 @@
 
 I am a UI/UX Designer who is interested in moving towards AI, Machine Learning, Robotics and cryptography.
 
-### 🌱 2022 Goals
-- [ ] #100DaysOfCode in Python
-- [ ] Mathematics for Machine Learning
-- [ ] R for Machine Learning
+### 🌱 2022 - 2023 Goals
+- [x] #100DaysOfCode in Python
+- [ ] Applied Data Science with Python
+- [ ] Statistics
 - [ ] Robotics and AI
 
 ### 🕊 Technologies
