@@ -15,7 +15,7 @@ I am a UI/UX Designer who is interested in moving towards AI, Machine Learning, 
 
 **Software**
 
-![PENPOT badge](https://img.shields.io/badge/PENPOT-028090?style=flat&logo=PENPOT&labelColor=00001F&logoColor=FFFFFF) ![INKSCAPE badge](https://img.shields.io/badge/INKSCAPE-028090?style=flat&logo=INKSCAPE&labelColor=00001F&logoColor=FFFFFF) ![FIGMA badge](https://img.shields.io/badge/FIGMA-028090?style=flat&logo=figma&labelColor=00001F&logoColor=FFFFFF) ![VSCode badge](https://img.shields.io/badge/VS%20CODE-028090?style=flat&logo=visualstudio&labelColor=00001F&logoColor=FFFFFF) ![JUPYTER badge](https://img.shields.io/badge/JUPYTER-028090?style=flat&logo=JUPYTER&labelColor=00001F&logoColor=FFFFFF)
+![PENPOT badge](https://img.shields.io/badge/PENPOT-028090?style=flat&logo=PENPOT&labelColor=00001F&logoColor=FFFFFF) ![INKSCAPE badge](https://img.shields.io/badge/INKSCAPE-028090?style=flat&logo=INKSCAPE&labelColor=00001F&logoColor=FFFFFF) ![FIGMA badge](https://img.shields.io/badge/FIGMA-028090?style=flat&logo=figma&labelColor=00001F&logoColor=FFFFFF) ![MIRO badge](https://img.shields.io/badge/MIRO-028090?style=flat&logo=Miro&labelColor=00001F&logoColor=FFFFFF) ![VSCode badge](https://img.shields.io/badge/VS%20CODE-028090?style=flat&logo=visualstudio&labelColor=00001F&logoColor=FFFFFF) ![JUPYTER badge](https://img.shields.io/badge/JUPYTER-028090?style=flat&logo=JUPYTER&labelColor=00001F&logoColor=FFFFFF)
 
 **Programming**
 
